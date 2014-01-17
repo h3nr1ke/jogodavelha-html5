@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">틱 - 전술에서 발끝</string>
+    <string name="restart">다시 시작</string>
+    <string name="reset_counters">재설정 카운터</string>
+    <string name="about">약</string>
+    <string name="share">공유</string>
+    <string name="share_title">이를 통해?</string>
+    <string name="share_msg">세계의 단순한 틱 - 전술 - 발가락 응용 프로그램 https://market.android.com/details?id=com.h3nr1ke.games.jogodavelha by @hdeodato #tictactoe</string>
+    <string name="x_won">X 원</string>
+    <string name="o_won">O 원</string>
+    <string name="draw_game">게임 그리기</string>
+    <string name="draw">무승부</string>
+    <string name="clean_screen">화면 삭제</string>
+    <string name="reset_counter">카운터 재설정</string>
+    <string name="loading_tilte">로드</string>
+    <string name="loading_message">게임을로드</string>
+    <string name="settings_title">설정</string>
+    <string name="color_settings">색상 설정</string>
+    <string name="x_color">X 컬러</string>
+    <string name="x_color_sum">X 컬러</string>
+    <string name="o_color">O 컬러</string>
+    <string name="o_color_sum">O 컬러</string>
+    <string name="grid_color">그리드 색상</string>
+    <string name="grid_color_sum">그리드 색상</string>
+    <string name="bg_color">배경 색상</string>
+    <string name="bg_color_sum">배경 색상</string>
+    <string name="txt_color">텍스트 색상</string>
+    <string name="txt_color_sum">텍스트 색상</string>
+    <string name="dialog_color_picker">색상 선택기</string>
+    <string name="press_color_to_apply">신청 색상에 대한 보도 자료</string>
+    <string name="txt_about_title">약 \"@app_name@\"</string>
+    <string name="txt_desc">사용셔서 감사합니다 \"@app_name@\" \n\n Henrique Deodato 개발한\n h3nr1ke@gmail.com
+	\n 여러분이 버그를 발견하면,이 응용 프로그램을 향상시킬 수 있도록 도와 줘요 또는 아이디어를 가지고, 내게 이메일을 보낼. ˆˆV 
+	\n 내 모든 애플 리케이션을 확인하려면 여기를 클릭하십시오 @apps@</string>
+
+</resources>

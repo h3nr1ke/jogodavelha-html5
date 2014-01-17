@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    
+    <string name="restart">Starten</string>
+    <string name="reset_counters">Zähler zurücksetzen</string>
+    <string name="about">über</string>
+    <string name="share">Anteil</string>
+    <string name="share_title">durch welche?</string>
+    <string name="share_msg">Das weltweit einfachste tic-tac-toe app https://market.android.com/details?id=com.h3nr1ke.games.jogodavelha durch @ hdeodato # tictactoe</string>
+   
+    <string name="x_won">X gewonnen</string>
+    <string name="o_won">O gewonnen</string>
+    <string name="draw_game">Draw Spiel</string>
+    <string name="draw">Draw</string>
+    
+    <string name="clean_screen">Bildschirm gelöscht</string>
+    <string name="reset_counter">Zähler zurücksetzen</string>
+    
+    <string name="loading_tilte">Laden</string>
+    <string name="loading_message">Lädt das Spiel</string>
+    
+    <string name="settings_title">Einstellungen</string>
+    <string name="color_settings">Farbeinstellungen</string>
+    
+    <string name="x_color">X Farbe</string>
+    <string name="x_color_sum">X Farbe</string>
+    <string name="o_color">O Farbe</string>
+    <string name="o_color_sum">O Farbe</string>
+    <string name="grid_color">Grid Farbe</string>
+    <string name="grid_color_sum">Grid Farbe</string>
+    <string name="bg_color">Hintergrundfarbe</string>
+    <string name="bg_color_sum">Hintergrundfarbe</string>
+    <string name="txt_color">Text Farbe</string>
+    <string name="txt_color_sum">Text Farbe</string>
+    
+    <string name="dialog_color_picker">Color Picker</string>
+    <string name="press_color_to_apply">Drücken Sie auf Farbe anwenden</string>   
+    
+	<string name="txt_about_title">Über \"@app_name@\"</string>
+	<string name="txt_desc">
+		Vielen Dank für die \"@app_name@\"\n\n
+
+		Entwickelt von Henrique Deodato \n
+		h3nr1ke@gmail.com\n
+		Helfen Sie mir, diese App zu verbessern, wenn Sie einen Fehler gefunden oder eine Idee haben, senden Sie mir eine E-Mail. ˆˆV\n
+		Alle meine apps finden Sie hier @apps@
+	</string>
+</resources>

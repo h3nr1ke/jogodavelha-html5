@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="restart">Ripartire</string>
+    <string name="reset_counters">Azzera contatori</string>
+    <string name="about">Circa</string>
+    <string name="share">Spartire</string>
+    <string name="share_title">attraverso il quale?</string>
+    <string name="share_msg">Il mondo più semplice tic-tac-toe applicazione https://market.android.com/details?id=com.h3nr1ke.games.jogodavelha da @hdeodato #tictactoe</string>
+   
+    <string name="x_won">X ha vinto</string>
+    <string name="o_won">O ha vinto</string>
+    <string name="draw_game">Partita pareggiata</string>
+    <string name="draw">pareggiata</string>
+    
+    <string name="clean_screen">schermo cancellato</string>
+    <string name="reset_counter">Azzera contatori</string>
+    
+   	<string name="loading_tilte">Caricamento...</string>
+    <string name="loading_message">Caricamento del gioco</string>
+    
+    <string name="settings_title">Impostazioni</string>
+    <string name="color_settings">Impostazioni colore</string>
+    
+    <string name="x_color">X colore</string>
+    <string name="x_color_sum">X colore</string>
+    <string name="o_color">O colore</string>
+    <string name="o_color_sum">O colore</string>
+    <string name="grid_color">Colore della griglia</string>
+    <string name="grid_color_sum">Colore della griglia</string>
+    <string name="bg_color">Colore di sfondo</string>
+    <string name="bg_color_sum">Colore di sfondo</string>
+    <string name="txt_color">Colore del testo</string>
+    <string name="txt_color_sum">Colore del testo</string>
+    
+    <string name="dialog_color_picker">Color Picker</string>
+    <string name="press_color_to_apply">Premere sul colore da applicare</string>   
+    
+	<string name="txt_about_title">Informazioni su \"@app_name@\"</string>
+	<string name="txt_desc">Grazie per utilizzare \"@app_name@\" \n\n
+Sviluppato da Henrique Deodato\n 
+h3nr1ke@gmail.com\n 
+Aiutami a migliorare questa applicazione,
+se hai trovato un bug o avere un\'idea, mandami una e-mail. \ˆ\ˆV \n
+Per vedere tutte le mie applicazioni, cliccate qui @apps@
+</string>
+</resources>

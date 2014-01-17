@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tic-Tac-Toe</string>
+    
+    <string name="restart">Restart</string>
+    <string name="reset_counters">Reset Counters</string>
+    <string name="about">About</string>
+    <string name="share">Share</string>
+    <string name="share_title">through which?</string>
+    <string name="share_msg">The world\'s simplest tic-tac-toe app https://market.android.com/details?id=com.h3nr1ke.games.jogodavelha by @hdeodato #tictactoe</string>
+   
+    <string name="x_won">X won</string>
+    <string name="o_won">O won</string>
+    <string name="draw_game">Draw Game</string>
+    <string name="draw">Draw</string>
+    
+    <string name="clean_screen">Screen cleared</string>
+    <string name="reset_counter">Reset counters</string>
+    
+   	<string name="loading_tilte">Loading</string>
+    <string name="loading_message">Loading the game</string>
+    
+    <string name="settings_title">Settings</string>
+    <string name="color_settings">Color Settings</string>
+    
+    <string name="x_color">X Color</string>
+    <string name="x_color_sum">X Color</string>
+    <string name="o_color">O Color</string>
+    <string name="o_color_sum">O Color</string>
+    <string name="grid_color">Grid Color</string>
+    <string name="grid_color_sum">Grid Color</string>
+    <string name="bg_color">Background Color</string>
+    <string name="bg_color_sum">Background Color</string>
+    <string name="txt_color">Text Color</string>
+    <string name="txt_color_sum">Text Color</string>
+    
+	<string name="txt_about_title">About \"@app_name@\"</string>
+	<string name="txt_desc">Thank you for use \"@app_name@\" \n\n Developed by
+		Henrique Deodato\n h3nr1ke@gmail.com\n Help me to improve this app, if
+		you found a bug or have an idea, send me an e-mail. ˆˆV \n To see all
+		my apps, click here @apps@</string>
+
+</resources>

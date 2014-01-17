@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">チックタックつま先</string>
+    <string name="restart">リスタート</string>
+    <string name="reset_counters">リセットカウンタ</string>
+    <string name="about">について</string>
+    <string name="share">シェア</string>
+    <string name="share_title">これを介して？</string>
+    <string name="share_msg">世界で最も単純なチックタックつま先のアプリ http://bit.ly/pSUe1K @hdeodato から #tictactoe</string>
+    <string name="x_won">X は勝つ</string>
+    <string name="o_won">O は勝つ</string>
+    <string name="draw_game">ゲームを描く</string>
+    <string name="draw">描く</string>
+    <string name="clean_screen">画面がクリアさ</string>
+    <string name="reset_counter">リセットカウンタ</string>
+    <string name="loading_tilte">ロード</string>
+    <string name="loading_message">ゲームのロード</string>
+    <string name="settings_title">設定</string>
+    <string name="color_settings">カラー設定</string>
+    <string name="x_color">X カラー</string>
+    <string name="x_color_sum">X カラー</string>
+    <string name="o_color">O カラー</string>
+    <string name="o_color_sum">O カラー</string>
+    <string name="grid_color">グリッドの色</string>
+    <string name="grid_color_sum">グリッドの色</string>
+    <string name="bg_color">背景色</string>
+    <string name="bg_color_sum">背景色</string>
+    <string name="txt_color">テキストの色</string>
+    <string name="txt_color_sum">テキストの色</string>
+    <string name="dialog_color_picker">カラーピッカー</string>
+    <string name="press_color_to_apply">適用する色のボタンを押して、</string>
+    <string name="txt_about_title">について \"@app_name@\"</string>
+    <string name="txt_desc">使用していただきありがとうございます \"@app_name@\" \n\n によって開発された Henrique Deodato\n h3nr1ke@gmail.com\n このアプリを向上させるために助けてくれ, あなたがバグを見つけた場合や、アイデアを持っている私に電子メールをお送りください。 ˆˆV \n すべての私のアプリを表示するには、ここをクリックしてください @apps@</string>
+
+</resources>

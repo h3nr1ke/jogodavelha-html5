@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">JogoDaVelha</string>
+    <string name="restart">Reiniciar</string>
+    <string name="reset_counters">Zerar Contadores</string>
+    <string name="about">Sobre</string>
+    <string name="share">Compartilhar</string>
+    <string name="share_title">Por onde?</string>
+    <string name="share_msg">A mais simples app de jogo da velha do mundo https://market.android.com/details?id=com.h3nr1ke.games.jogodavelha by @hdeodato #jogodavelha</string>
+    <string name="x_won">X venceu</string>
+    <string name="o_won">O venceu</string>
+    <string name="draw_game">Deu Velha</string>
+    <string name="draw">Velha</string>
+    <string name="clean_screen">Tela Limpa</string>
+    <string name="reset_counter">Contadores Zerados</string>
+    <string name="loading_tilte">Carregando...</string>
+    <string name="loading_message">Carregando o jogo</string>
+    <string name="settings_title">Configurações</string>
+    <string name="color_settings">Configurações das cores</string>
+    <string name="x_color">Cor do X</string>
+    <string name="x_color_sum">Cor do X</string>
+    <string name="o_color">Cor do O</string>
+    <string name="o_color_sum">Cor do O</string>
+    <string name="grid_color">Cor das Linhas</string>
+    <string name="grid_color_sum">Cor das Linhas</string>
+    <string name="bg_color">Cor de fundo</string>
+    <string name="bg_color_sum">Cor de fundo</string>
+    <string name="txt_color">Cor do texto</string>
+    <string name="txt_color_sum">Cor do texto</string>
+    <string name="dialog_color_picker">Selecione uma Cor</string>
+    <string name="press_color_to_apply">Pressione na nova cor para concluir</string>
+    <string name="txt_about_title">Sobre \"@app_name@\"</string>
+    <string name="txt_desc">Obrigado por usar \"@app_name@\" \n\n Desenvolvido
+		por Henrique Deodato\n h3nr1ke@gmail.com\n Ajude-me a melhorar esta
+		app, se você encontrou um bug ou tem alguma idéia para melhorar,
+		mande-me um email. ˆˆV \n Para ver todas as minhas apps, clique aqui
+		@apps@</string>
+
+</resources>

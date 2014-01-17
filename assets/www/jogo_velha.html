@@ -1,0 +1,52 @@
+<!DOCTYPE html> 
+<html>
+  <head>
+       <link rel="stylesheet" type="text/css" href="jogo_velha.css"/>
+  </head>
+    <body>
+    <div id="area">
+      <div id="game">
+        <table cellspacing="0">
+        <tr id="score-cell"><td colspan="3">
+          <div id="score">
+          <ul>
+          <li id="player1">X : 0</li>
+          <li id="player2">O : 0</li>
+          <li id="draw">Draw : 0</li>
+          </ul>
+          </div>
+        </td></tr>
+        <tr class="play" id="0">
+          <td id="0" class="c00 bbottom bright"><span></span></td>
+          <td id="1" class="c01 bbottom"><span></span></td>
+          <td id="2" class="c02 bbottom bleft"><span></span></td>
+        </tr>
+        <tr class="play" id="1">
+          <td id="0" class="c10 bright"><span></span></td>
+          <td id="1" class="c11"><span></span></td>
+          <td id="2" class="c12 bleft"><span></span></td>
+        </tr>
+        <tr class="play" id="2">
+          <td id="0" class="c20 btop bright"><span></span></td>
+          <td id="1" class="c21 btop"><span></span></td>
+          <td id="2" class="c22 bleft btop"><span></span></td>
+        </tr>
+        <tr class="spacer">
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr class="ai">
+          <td class="cpu-indicator">CPU -></td><td class="ai-sel off">OFF</td><td class="normal">ON</td>
+        </tr>
+        </table>
+      </div>
+    </div>
+    </body>
+	<script src="jquery.js" type="text/javascript"></script> 
+  <script src="jqueryMobile.js" type="text/javascript"></script>
+  <script src="jquery-ui-1.8.15.custom.min.js" type="text/javascript"></script>
+  <script src="ai.js" type="text/javascript"></script>
+  <!--<script src="Android.js" type="text/javascript"></script>-->
+  <script src="jogo_velha.js" type="text/javascript"></script>
+</html>

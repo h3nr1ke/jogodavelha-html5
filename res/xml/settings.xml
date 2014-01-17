@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright CMW Mobile.com, 2011. -->
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:cmwmobile="http://schemas.android.com/apk/res/com.h3nr1ke.games.jogodavelha" >
+
+    <PreferenceCategory
+        android:orderingFromXml="true"
+        android:persistent="true"
+        android:title="@string/color_settings" >
+
+        <net.margaritov.preference.colorpicker.ColorPickerPreference
+            alphaSlider="false"
+            android:defaultValue="@integer/COLOR_ORANGE"
+            android:key="x_color"
+            android:summary="@string/x_color_sum"
+            android:title="@string/x_color" />
+
+        <net.margaritov.preference.colorpicker.ColorPickerPreference
+            alphaSlider="false"
+            android:defaultValue="@integer/COLOR_PURPLE"
+            android:key="o_color"
+            android:summary="@string/o_color_sum"
+            android:title="@string/o_color" />
+
+        <net.margaritov.preference.colorpicker.ColorPickerPreference
+            alphaSlider="false"
+            android:defaultValue="@integer/COLOR_BLUE"
+            android:key="grid_color"
+            android:summary="@string/grid_color_sum"
+            android:title="@string/grid_color" />
+
+        <net.margaritov.preference.colorpicker.ColorPickerPreference
+            alphaSlider="false"
+            android:defaultValue="@integer/COLOR_BLACK"
+            android:key="bg_color"
+            android:summary="@string/bg_color_sum"
+            android:title="@string/bg_color" />
+        
+        <net.margaritov.preference.colorpicker.ColorPickerPreference
+            alphaSlider="false"
+            android:defaultValue="@integer/COLOR_WHITE"
+            android:key="txt_color"
+            android:summary="@string/txt_color_sum"
+            android:title="@string/txt_color" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

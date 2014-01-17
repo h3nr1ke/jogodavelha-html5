@@ -1,0 +1,144 @@
+/*
+custom font to de markers
+*/
+		@font-face{
+			font-family: mF;
+			/*src: url("file:///android_asset/www/ChineseTakeaway.ttf");*/
+			src: url("ChineseTakeaway.ttf");
+		}
+   
+   body{
+      font-size:24px;
+      width:100%;
+      margin:0px;
+      height:100%;
+      background-color: black;
+    }
+    #area{
+      margin:0px;
+      padding: 0px;
+      height:100%;
+      width:100%;
+    }
+    #game{
+      width:90%;
+      margin:0px;
+      height:100%;
+      float: left;
+      padding: 0px;
+    }
+
+    #score{
+    	position: relative;
+      width:100%;
+      text-align: center;
+      padding:0px;
+    }
+    #score ul {
+			width:100%;
+			padding: 0px;
+			margin: 0px;
+			list-style-type: none;
+			text-align: center;
+    }
+    #score ul li{
+    	position: relative;
+      display: inline;
+      font-family: mF;
+			width: 33%;
+			
+			font-size:18px;
+      text-align: center;
+      float: left;
+      padding: 0px;
+
+      color: white;
+    }
+    
+    table{
+      position: absolute;
+      width:100%;
+      height: 100%;
+      z-index: -1;
+    }
+    
+    .btop{
+      border-top:solid 5px #87CEFA;
+    }
+    .bbottom{
+      border-bottom:solid 5px #87CEFA;
+    }
+    .bleft{
+      border-left:solid 5px #87CEFA;
+    }
+    .bright{
+      border-right:solid 5px #87CEFA;
+    }
+    tr#score-cell{
+    	height:10%;
+    }
+    
+    /*tr#l1 td,tr#l2 td,tr#l3 td{*/
+    tr.play td{
+      width: 33%;
+			height:25%;
+      text-align:center;
+      font-family : mF;
+      vertical-align: middle;
+    }
+    td span{
+    	color: inherit;
+    }
+    
+    *{
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0)
+    }
+    
+    /*
+    classe que marca a linha vencedora
+    */
+    .winCell{
+    	background-color: #D3D3D3;
+    }
+    .drawGame{
+    	background-color: #000000;
+    }
+    /*
+    configuracoes das letras
+    */
+    .x, .o{
+    	font-weight:bold;
+    }
+    .x{
+    	color: orange;
+    }
+    
+    .o{
+    	color: #6A5ACD;
+    }
+    
+    .border-bot{
+    	border-bottom: solid 2px white;
+    }
+    
+    .ai{
+    	text-align:center;
+    	font-family: mF;
+    	color: white;
+    }
+    .ai td{
+    	padding-bottom:20px;
+    	padding-top:10px;
+    	margin-top:5px;
+    	height:13%;
+    	font-size:18px;
+    }
+    
+    tr.spacer td{
+    	height:1%;
+    }
+    
+    .ai-sel{
+    	color: black;
+    	background-color:#dddddd
+    }

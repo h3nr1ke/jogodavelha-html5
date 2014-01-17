@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Tic-Tac-Toe</string>
+
+	<string name="restart">Redémarrer</string>
+	<string name="reset_counters">Réinitialiser les compteurs</string>
+	<string name="about">À propos</string>
+	<string name="share">Partager</string>
+	<string name="share_title">Grâce à qui?</string>
+	<string name="share_msg">Le plus simple du monde automobile tic-tac-toe app
+		https://market.android.com/details?id=com.h3nr1ke.games.jogodavelha
+		par @hdeodato #tictactoe</string>
+
+	<string name="x_won">X gagné</string>
+	<string name="o_won">O gagné</string>
+	<string name="draw_game">Match nul</string>
+	<string name="draw">Match nul</string>
+
+	<string name="clean_screen">Ecran effacé</string>
+	<string name="reset_counter">Réinitialiser compteurs</string>
+	
+   	<string name="loading_tilte">Chargement</string>
+    <string name="loading_message">Chargement du jeu</string>
+    
+    <string name="settings_title">Réglages</string>
+    <string name="color_settings">Paramètres de couleur</string>
+    
+    <string name="x_color">Couleur du X</string>
+    <string name="x_color_sum">Couleur du X</string>
+    <string name="o_color">Couleur du O</string>
+    <string name="o_color_sum">Couleur du O</string>
+    <string name="grid_color">Couleur de la grille</string>
+    <string name="grid_color_sum">Couleur de la grille</string>
+    <string name="bg_color">Couleur de fond</string>
+    <string name="bg_color_sum">Couleur de fond</string>
+    <string name="txt_color">Couleur du texte</string>
+    <string name="txt_color_sum">Couleur du texte</string>
+    
+            <string name="dialog_color_picker">Color Picker</string>
+    <string name="press_color_to_apply">Appuyez sur Couleur pour appliquer</string>   
+
+	<string name="txt_about_title">Sur \"@app_name@\"</string>
+	<string name="txt_desc">Je vous remercie pour l\'utilisation \"@app_name@\"
+		\n\n Développé par Deodato Henrique\n h3nr1ke@gmail.com\n Aide-moi à
+		améliorer ce soft, si vous avez trouvé un bug ou avez une idée,
+		envoyez-moi un e-mail. ˆˆV \n Pour voir toutes mes applications,
+		cliquez ici @apps@</string>
+
+</resources>
